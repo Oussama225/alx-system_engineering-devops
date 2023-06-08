@@ -1,2 +1,2 @@
 #!/bin/bash
-chown "$NEW_OWNER:$NEW_GROUP" "$file"
+chown vincent:staff *
