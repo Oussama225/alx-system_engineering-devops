@@ -1,2 +1,2 @@
 #!/bin/bash
-decimal = int(os.getenv('DECIMAL'))
+printf "%x\n" $DECIMAL
